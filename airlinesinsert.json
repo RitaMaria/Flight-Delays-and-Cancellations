@@ -1,0 +1,14 @@
+[
+    {
+      "AIRLINE_CODE":"RA",
+      "AIRLINE":"Ronaldo Airlines"
+    },
+    {
+        "AIRLINE_CODE":"BA",
+        "AIRLINE":"Bases de dados Airlines"
+    },
+    {
+        "AIRLINE_CODE":"PA",
+        "AIRLINE":"Portugal Airlines"
+    }
+]
